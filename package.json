@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BenWegert/arbitrage.git"
+    "url": "git+https://github.com/Briliantcoin/un-arbitrage-bot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BenWegert/arbitrage/issues"
+    "url": "https://github.com/Briliantcoin/un-arbitrage-bot/issues"
   },
-  "homepage": "https://github.com/BenWegert/arbitrage#readme",
+  "homepage": "https://github.com/Briliantcoin/un-arbitrage-bot#readme",
   "dependencies": {
     "@ethersproject/solidity": "^5.0.5",
     "@truffle/hdwallet-provider": "^1.2.0",
